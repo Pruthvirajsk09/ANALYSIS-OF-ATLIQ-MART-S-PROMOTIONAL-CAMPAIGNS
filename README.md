@@ -23,7 +23,7 @@ Identified key attributes such as store, product, discount type, sales volume, a
 ### 2) Data Cleaning & Preparation
 
 Removed duplicates, handled missing values, and standardized data types.
-Created calculated columns/measures for Total Sales, Revenue, Profit, and Promotion Effectiveness.
+Created calculated columns/measures for Total Sales, Incremental Revenue, Incremental Revenue %, Incremental Sold Units, Incremental Sold Units %.
 
 ### 3) Exploratory Analysis
 
