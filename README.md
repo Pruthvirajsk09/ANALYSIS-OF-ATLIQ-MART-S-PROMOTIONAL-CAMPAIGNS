@@ -12,6 +12,38 @@ Atliq Mart, a leading retail chain in Southern India, conducted extensive promot
 analyst for this project, my role was to evaluate the effectiveness of these campaigns by analyzing large datasets using SQL and Power BI. The goal was to identify trends, assess
 the impact of different promotion types, and provide actionable recommendations to enhance future campaigns.
 
+
+# Project Steps
+
+### 1) Data Understanding & Collection
+
+Reviewed the dataset containing sales transactions, product details, and promotion types.
+Identified key attributes such as store, product, discount type, sales volume, and revenue.
+
+### 2) Data Cleaning & Preparation
+
+Removed duplicates, handled missing values, and standardized data types.
+Created calculated columns/measures for Total Sales, Revenue, Profit, and Promotion Effectiveness.
+
+### 3) Exploratory Analysis
+
+Analyzed sales trends during Diwali 2023 and Sankranti 2024 promotions.
+Compared promotion performance across categories, stores, and time periods.
+Identified top-selling products and underperforming ones under promotions.
+
+### 4) Dashboard Development in Power BI
+
+Designed interactive visuals including bar charts, line charts, and KPIs.
+Included filters and slicers for time period, product category, and store location.
+Highlighted promotion effectiveness metrics: ROI, uplift in sales, and margin impact.
+
+### 5) Insights & Recommendations
+
+Identified which promotions were most successful in driving sales uplift.
+Highlighted ineffective promotions where discounts reduced margins without boosting sales.
+Recommended data-driven adjustments for future campaigns.
+
+
 # Key Findings
 - BOGOF and Cashback Offers Lead in Revenue and Sales: BOGOF and cashback promotions generated the highest revenue and sales, outperforming discount-based offers.
 - Personal Care Products Lagging: Personal care products had lower sales, likely due to the focus on other categories during the festival season.
