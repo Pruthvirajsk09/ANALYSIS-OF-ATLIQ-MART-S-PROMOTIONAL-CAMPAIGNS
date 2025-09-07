@@ -54,4 +54,13 @@ promotion.
 
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Looking for Opportunities
+
+### I am actively seeking internship or entry-level opportunities in Data Analytics / Data Science.
+### Skills: Python, SQL, Power BI, Excel
+### If you know of any opportunities or would like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/pruthviraj-kadam-patil/) or via email at pruthvirajkadam009@gmail.com
+
+### Thanks in Advance
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
