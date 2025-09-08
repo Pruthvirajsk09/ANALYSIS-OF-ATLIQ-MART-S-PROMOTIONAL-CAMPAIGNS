@@ -45,14 +45,26 @@ Recommended data-driven adjustments for future campaigns.
 
 
 # Key Findings
-- BOGOF and Cashback Offers Lead in Revenue and Sales: BOGOF and cashback promotions generated the highest revenue and sales, outperforming discount-based offers.
-- Personal Care Products Lagging: Personal care products had lower sales, likely due to the focus on other categories during the festival season.
-- Home Appliances and Home Care Excellence: The Home Appliances and Home Care categories performed exceptionally well, contributing to 50% of overall sales and revenue post
+### 1) BOGOF and Cashback Offers Lead in Revenue and Sales: BOGOF and cashback promotions generated the highest revenue and sales, outperforming discount-based offers.
+### 2) Personal Care Products Lagging: Personal care products had lower sales, likely due to the focus on other categories during the festival season.
+### 3) Home Appliances and Home Care Excellence: The Home Appliances and Home Care categories performed exceptionally well, contributing to 50% of overall sales and revenue post
 promotion.
-- Major Revenue from Key Cities: 50% of the revenue was generated from stores in Bengaluru, Chennai, and Mysuru, highlighting the significance of these markets.
-- Stores Expansion: Hyderabad though with higher number of stores lagged in Incremental Revenue / Incremental Sold Units during promotions.
+### 4) Major Revenue from Key Cities: 50% of the revenue was generated from stores in Bengaluru, Chennai, and Mysuru, highlighting the significance of these markets.
+### 5) Stores Expansion: Hyderabad though with higher number of stores lagged in Incremental Revenue / Incremental Sold Units during promotions.
 
 
+# Recommendations
+### 1) Optimize Promotions
+- Focus on Cashback & BOGOF offers since they generated the highest revenue and sales lift.
+- Reduce reliance on flat discounts (25%, 33%, 50%), as they delivered negative IR.
+
+### 2) Category Strategy
+- Scale up promotions for Home Appliances, Home Care, Grocery & Staples, as they showed strong positive IR.
+- Reassess Personal Care promotions — experiment with bundles, loyalty rewards, or premium positioning instead of deep discounts.
+
+### 3) Campaign Planning
+- Diwali Campaign: Prioritize cashback schemes to maximize revenue.
+- Sankranti Campaign: Leverage BOGOF offers to drive volume sales.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
