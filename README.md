@@ -1,5 +1,5 @@
 # ANALYSIS-OF-ATLIQ-MART-S-PROMOTIONAL-CAMPAIGNS
-- [Live Dashboard]([https://app.powerbi.com/groups/me/reports/86e0f840-2e1b-4a44-b99b-9f1274d4062d/c269514005b916bc306c?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiMDVkODVkNTAtNTIxMi00ZjcyLTg4NGEtYTQxYTY1M2E3NDk4IiwidCI6IjgzYTI2YTFiLTkzN2MtNDMyNy1iNzEzLWM5OWUzMjQ4MjU3NCJ9))
+- [Live Dashboard]([https://app.powerbi.com/groups/me/reports/86e0f840-2e1b-4a44-b99b-9f1274d4062d/c269514005b916bc306c?experience=power-bi]https://app.powerbi.com/view?r=eyJrIjoiMDVkODVkNTAtNTIxMi00ZjcyLTg4NGEtYTQxYTY1M2E3NDk4IiwidCI6IjgzYTI2YTFiLTkzN2MtNDMyNy1iNzEzLWM5OWUzMjQ4MjU3NCJ9)
 
 # Project Overview
 This project represents a detailed analysis of Atliq Mart’s promotional campaigns during the Diwali 2023 and Sankranti 2024 seasons. Utilizing advanced data analytics and
